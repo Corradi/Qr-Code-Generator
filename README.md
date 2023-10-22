@@ -1,0 +1,2 @@
+# qrCodeGenerator
+QR code Generato
